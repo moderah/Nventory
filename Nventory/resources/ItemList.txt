@@ -1,0 +1,9 @@
+"flathead shovel" "01a" "original" "voltron" 0.00
+"rounded shovel"  "01b" "original" "voltron" 0.00
+"metal rake"      "02a" "original" "voltron" 0.00
+"leaf rake"       "02b" "original" "voltron" 0.00
+"compact drill"   "03a" "original" "dewalt"  0.00
+"regular drill"   "03b" "original" "dewalt"  0.00
+"skill saw"       "04a" "original" "dewalt"  0.00
+"sawsall"         "04b" "original" "dewalt"  0.00
+"dremel"          "05a" "original" "??"      0.00
